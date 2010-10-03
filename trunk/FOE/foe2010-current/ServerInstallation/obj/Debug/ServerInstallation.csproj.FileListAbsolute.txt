@@ -1,0 +1,5 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\ServerInstallation\bin\Debug\ServerInstallation.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\ServerInstallation\bin\Debug\ServerInstallation.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\ServerInstallation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\ServerInstallation\obj\Debug\ServerInstallation.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\ServerInstallation\obj\Debug\ServerInstallation.pdb

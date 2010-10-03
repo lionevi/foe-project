@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ymusic="http://music.yahoo.com/rss/1.0/ymusic/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>VOA News:  News  </title>
+    <link>http://www1.voanews.com/english/news</link>
+    <description>
+      News
+
+      Voice of America
+    </description>
+    <language>en</language>
+    <copyright />
+    <pubDate>Tue, 26 Jan 2010 17:02:54 GMT</pubDate>
+    <dc:creator />
+    <dc:date>2010-01-26T17:02:54Z</dc:date>
+    <dc:language>en</dc:language>
+    <dc:rights />
+    <item>
+      <title>Suicide Blast Kills 18 in Baghdad</title>
+      <link>http://www1.voanews.com/english/news/-Suicide-Blast-Kills-18-in-Baghdad-82671237.html</link>
+      <description>
+        Blast comes day after suicide bombers attacked 3 Baghdad hotels popular with foreigners, killing at least 36 people, wounding 71 others
+      </description>
+      <pubDate>Tue, 26 Jan 2010 12:17:20 GMT</pubDate>
+      <guid isPermaLink="false">82671237</guid>
+      <dc:creator>Elizabeth Arrott</dc:creator>
+      <dc:date>2010-01-26T12:17:20Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/ap_iraq_Baghdad_bombing_26jan10_eng_480.jpg" medium="image" isDefault="true" height="320" width="480" />
+        <media:content url="http://media.voanews.com/images/ap_iraq_Baghdad_bombing_26jan10_eng_230.jpg" medium="image" isDefault="false" height="230" width="230" />
+      </media:group>
+    </item>
+    <item>
+      <title>Ballot Counting Underway in Sri Lanka Presidential Election</title>
+      <link>http://www1.voanews.com/english/news/SRI_LANKA-POL-82658237.html</link>
+      <description> Voters cast ballots to extend tenure of incumbent President Rajapaksa or replace him with former top military chief, Sarath Fonseka   </description>
+      <pubDate>Tue, 26 Jan 2010 05:02:43 GMT</pubDate>
+      <guid isPermaLink="false">82658237</guid>
+      <dc:creator>Steve Herman</dc:creator>
+      <dc:date>2010-01-26T05:02:43Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/voa_herman_sri_lanka_elections_women_26jan10_eng_480.jpg" medium="image" isDefault="true" height="322" width="480" />
+        <media:content url="http://media.voanews.com/images/voa_herman_sri_lanka_elections_women_26jan10_eng_230.jpg" medium="image" isDefault="false" height="230" width="230" />
+        <media:content url="http://www.voanews.com/MediaAssets2/english/2010_01/LCR_Herman_sri_lanka_elections_26jan10-32b.mp3" type="audio/mpeg" medium="audio" isDefault="false" />
+        <media:content url="http://www.voanews.com/MediaAssets2/english/2010_01/herman-yackee-sri-lanka-elect-26jan10-sky.mp3" type="audio/mpeg" medium="audio" isDefault="false" />
+      </media:group>
+    </item>
+    <item>
+      <title>International Community Struggles to Feed, Shelter Haitian Earthquake Victims</title>
+      <link>http://www1.voanews.com/english/news/International-Community-Struggles-to-Feed-Shelter-Haitian-Earthquake-Victims-82675757.html</link>
+      <description> About eight million meals have been delivered to nearly 400,000 people in Haiti  </description>
+      <pubDate>Tue, 26 Jan 2010 14:03:48 GMT</pubDate>
+      <guid isPermaLink="false">82675757</guid>
+      <dc:creator></dc:creator>
+      <dc:date>2010-01-26T14:03:48Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/Haiti_Relocation_HD_for_Web-desktop07Tease.jpg" medium="image" isDefault="true" height="480" width="480" />
+        <media:content url="http://media.voanews.com/images/ap_haiti_children_23jan10_eng_230.jpg" medium="image" isDefault="false" height="230" width="230" />
+      </media:group>
+    </item>
+    <item>
+      <title>Outside Port-au-Prince Qake Victims Receive Little Help</title>
+      <link>http://www1.voanews.com/english/news/Outside-Port-au-Prince-Qake-Victims-Receive-Little-Help-82652077.html</link>
+      <description> VOA reporters travel south of the capital to see how people in other parts of Haiti are surviving  </description>
+      <pubDate>Tue, 26 Jan 2010 16:15:56 GMT</pubDate>
+      <guid isPermaLink="false">82652077</guid>
+      <dc:creator>Jeff Swicord</dc:creator>
+      <dc:date>2010-01-26T16:15:56Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/Haiti_On_the_Road_HD_for_Web-desktop04Main.jpg" medium="image" isDefault="true" height="480" width="852" />
+        <media:content url="http://media.voanews.com/images/Haiti_On_the_Road_SD08Tease.jpg" medium="image" isDefault="false" height="480" width="480" />
+        <media:content url="" type="video/mp4" medium="video" isDefault="false" />
+      </media:group>
+    </item>
+    <item>
+      <title>US Officials: Medical Assistance and Food Distribution Some of Biggest Concerns in Haiti </title>
+      <link>http://www1.voanews.com/english/news/US-Officials-Medical-Assistance-and-Food-Distribution-Some-of-Biggest-Concerns-in-Haiti--82677662.html</link>
+      <description> Although there has been tremendous influx of food from outside, challenge is getting it to those who need it  </description>
+      <pubDate>Tue, 26 Jan 2010 14:02:04 GMT</pubDate>
+      <guid isPermaLink="false">82677662</guid>
+      <dc:creator>William Ide</dc:creator>
+      <dc:date>2010-01-26T14:02:04Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/ap_haiti_children_300_21Jan10.jpg" medium="image" isDefault="true" height="300" width="300" />
+        <media:content url="http://media.voanews.com/images/ap_haiti_children_230_21Jan10.jpg" medium="image" isDefault="false" height="230" width="230" />
+        <media:content url="http://www.voanews.com/MediaAssets2/english/2010_01/LCR_Ide_haiti_US_officials_food_26jan10-32b.mp3" type="audio/mpeg" medium="audio" isDefault="false" />
+      </media:group>
+    </item>
+    <item>
+      <title>Lebanon Says Pilot in Beirut Crash Did Not Follow Tower's Advice</title>
+      <link>http://www1.voanews.com/english/news/Search-Continues-for-Victims-of-Lebanon-Plane-Crash-82671847.html</link>
+      <description> Transport minister says plane abruptly veered in different direction and pilot was unresponsive to request to change course  </description>
+      <pubDate>Tue, 26 Jan 2010 13:01:31 GMT</pubDate>
+      <guid isPermaLink="false">82671847</guid>
+      <dc:creator>VOA News</dc:creator>
+      <dc:date>2010-01-26T13:01:31Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/AP_Ethiopian_Crash_480.jpg" medium="image" isDefault="true" height="300" width="480" />
+        <media:content url="http://media.voanews.com/images/AP_Ethiopian_Crash_230.jpg" medium="image" isDefault="false" height="230" width="230" />
+      </media:group>
+    </item>
+    <item>
+      <title>Obama to Seek 3-Year Freeze on Spending to Tame Deficit</title>
+      <link>http://www1.voanews.com/english/news/Obama-to-Seek-3-Year-Freeze-on-Spending-to-Tame-Deficit-82685912.html</link>
+      <description> Administration officials say US president will propose freeze in State of the Union address on Wednesday  </description>
+      <pubDate>Tue, 26 Jan 2010 16:05:33 GMT</pubDate>
+      <guid isPermaLink="false">82685912</guid>
+      <dc:creator>VOA News</dc:creator>
+      <dc:date>2010-01-26T16:05:33Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/AP-US-Obama_MiddleClass_25JAN10.jpg" medium="image" isDefault="true" height="342" width="490" />
+        <media:content url="http://media.voanews.com/images/AP-US-Obama_MiddleClass230_25JAN10.jpg" medium="image" isDefault="false" height="230" width="230" />
+      </media:group>
+    </item>
+    <item>
+      <title>New Audits Cite Lax Oversight of US Contracts in Iraq</title>
+      <link>http://www1.voanews.com/english/news/New-Audits-Cite-Lax-Oversight-of-US-Contracts-in-Iraq-82649407.html</link>
+      <description> Auditors cite weak and ineffective State Department oversight of nearly $3 billion in contracts and grants in Iraq  </description>
+      <pubDate>Tue, 26 Jan 2010 15:14:06 GMT</pubDate>
+      <guid isPermaLink="false">82649407</guid>
+      <dc:creator>Gary Thomas</dc:creator>
+      <dc:date>2010-01-26T15:14:06Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/WEB_Iraq_Contracts_Bowen_SOT_Video01.jpg" medium="image" isDefault="true" height="480" width="640" />
+        <media:content url="http://media.voanews.com/images/WEB_Iraq_Contracts_Bowen_SQ_Video01.jpg" medium="image" isDefault="false" height="480" width="480" />
+        <media:content url="http://www.voanews.com/MediaAssets2/english/2010_01/thomas_Iraq_contracts_25jan10-32b.mp3" type="audio/mpeg" medium="audio" isDefault="false" />
+        <media:content url="" type="video/mp4" medium="video" isDefault="false" />
+      </media:group>
+    </item>
+    <item>
+      <title>Britain Hosts Meeting on Yemen </title>
+      <link>http://www1.voanews.com/english/news/Britain-Hosts-Meeting-on-Yemen--82679482.html</link>
+      <description> Focus is on terrorism, prompted by Christmas Day bombing attempt  </description>
+      <pubDate>Tue, 26 Jan 2010 16:38:22 GMT</pubDate>
+      <guid isPermaLink="false">82679482</guid>
+      <dc:creator>Sonja Pace</dc:creator>
+      <dc:date>2010-01-26T16:38:22Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/AFP-US-Nigeria-bomb-suspect-Abdulmutallab300.jpg" medium="image" isDefault="true" height="300" width="300" />
+        <media:content url="http://media.voanews.com/images/AFP-US-Nigeria-bomb-suspect-Abdulmutallab300.jpg" medium="image" isDefault="false" height="300" width="300" />
+        <media:content url="" type="video/mp4" medium="video" isDefault="false" />
+      </media:group>
+    </item>
+    <item>
+      <title>India, South Korea to Establish Strategic Partnership</title>
+      <link>http://www1.voanews.com/english/news/India-South-Korea-to-Establish-Strategic-Partnership-82679787.html</link>
+      <description>
+        Decision announced during visit by South Korean president to India
+      </description>
+      <pubDate>Tue, 26 Jan 2010 15:57:53 GMT</pubDate>
+      <guid isPermaLink="false">82679787</guid>
+      <dc:creator>Anjana Pasricha</dc:creator>
+      <dc:date>2010-01-26T15:57:53Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/ap_south_korea_myung_bak_india_singh_480_25Jan10.jpg" medium="image" isDefault="true" height="330" width="480" />
+        <media:content url="http://media.voanews.com/images/ap_south_korea_myung_bak_india_singh_230_25Jan10.jpg" medium="image" isDefault="false" height="230" width="230" />
+      </media:group>
+    </item>
+    <item>
+      <title>Path of Haiti Quake Destruction Extends to Other Cities</title>
+      <link>http://www1.voanews.com/english/news/Path-of-Haiti-Quake-Destruction-Extends-to-Other-Cities-82624267.html</link>
+      <description> Road from Port-au-Prince to Jacmel offers glimpse of earthquake's power  </description>
+      <pubDate>Mon, 25 Jan 2010 22:19:59 GMT</pubDate>
+      <guid isPermaLink="false">82624267</guid>
+      <dc:creator></dc:creator>
+      <dc:date>2010-01-25T22:19:59Z</dc:date>
+
+      <media:group>
+        <media:content url="http://media.voanews.com/images/ap_Jacmel_Haiti_earthquake_damage_25Jan10.jpg" medium="image" isDefault="true" height="301" width="300" />
+        <media:content url="http://media.voanews.com/images/ap_Jacmel_Haiti_earthquake_damage_25Jan10.jpg" medium="image" isDefault="false" height="301" width="300" />
+      </media:group>
+    </item>
+  </channel>
+</rss>
+

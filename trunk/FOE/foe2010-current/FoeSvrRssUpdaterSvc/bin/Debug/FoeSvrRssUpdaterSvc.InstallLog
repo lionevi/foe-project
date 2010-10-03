@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRssUpdaterSvc\bin\Debug\FoeSvrRssUpdaterSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRssUpdaterSvc\bin\Debug\FoeSvrRssUpdaterSvc.exe
+   logfile = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRssUpdaterSvc\bin\Debug\FoeSvrRssUpdaterSvc.InstallLog
+Installing service Foe Server RSS Updater Service...
+Service Foe Server RSS Updater Service has been successfully installed.
+Creating EventLog source Foe Server RSS Updater Service in log Application...
+Committing assembly 'C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRssUpdaterSvc\bin\Debug\FoeSvrRssUpdaterSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRssUpdaterSvc\bin\Debug\FoeSvrRssUpdaterSvc.exe
+   logfile = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRssUpdaterSvc\bin\Debug\FoeSvrRssUpdaterSvc.InstallLog

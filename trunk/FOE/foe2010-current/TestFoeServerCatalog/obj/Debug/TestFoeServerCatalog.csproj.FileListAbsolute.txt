@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\bin\Debug\TestServerCatalogManager.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\bin\Debug\TestServerCatalogManager.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\bin\Debug\Server.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\obj\Debug\TestServerCatalogManager.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestFoeServerCatalog\obj\Debug\TestServerCatalogManager.pdb

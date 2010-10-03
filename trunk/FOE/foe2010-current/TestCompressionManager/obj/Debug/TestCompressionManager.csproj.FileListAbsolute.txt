@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\bin\Debug\TestCompressionManager.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\bin\Debug\TestCompressionManager.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\obj\Debug\TestCompressionManager.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\obj\Debug\TestCompressionManager.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestCompressionManager\bin\Debug\Server.pdb

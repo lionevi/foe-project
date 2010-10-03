@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientContentRequest\bin\Debug\TestSimpleClientContentRequest.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientContentRequest\bin\Debug\TestSimpleClientContentRequest.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientContentRequest\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientContentRequest\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientContentRequest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientContentRequest\obj\Debug\TestSimpleClientContentRequest.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientContentRequest\obj\Debug\TestSimpleClientContentRequest.pdb

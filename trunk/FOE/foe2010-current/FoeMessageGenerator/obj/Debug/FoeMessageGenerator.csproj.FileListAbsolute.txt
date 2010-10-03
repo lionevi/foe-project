@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\bin\Debug\FoeMessageGenerator.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\bin\Debug\FoeMessageGenerator.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\bin\Debug\Server.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\FoeMessageGenerator.Form1.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\FoeMessageGenerator.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\FoeMessageGenerator.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeMessageGenerator\obj\Debug\FoeMessageGenerator.pdb
