@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe
+   logfile = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.InstallLog
+Installing service Foe Server Registration Service...
+Service Foe Server Registration Service has been successfully installed.
+Creating EventLog source Foe Server Registration Service in log Application...
+Committing assembly 'C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe
+   logfile = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.InstallLog

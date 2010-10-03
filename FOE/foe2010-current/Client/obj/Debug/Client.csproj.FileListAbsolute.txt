@@ -1,0 +1,18 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\bin\Debug\Client.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\bin\Debug\Client.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\bin\Debug\System.Data.SQLite.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\bin\Debug\System.Data.SQLite.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\obj\Debug\Client.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Client\obj\Debug\Client.pdb
+C:\Projects\FOE\foe2010-current\Client\bin\Debug\Client.dll
+C:\Projects\FOE\foe2010-current\Client\bin\Debug\Client.pdb
+C:\Projects\FOE\foe2010-current\Client\bin\Debug\Common.dll
+C:\Projects\FOE\foe2010-current\Client\bin\Debug\System.Data.SQLite.dll
+C:\Projects\FOE\foe2010-current\Client\bin\Debug\Common.pdb
+C:\Projects\FOE\foe2010-current\Client\bin\Debug\System.Data.SQLite.xml
+C:\Projects\FOE\foe2010-current\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FOE\foe2010-current\Client\obj\Debug\Client.dll
+C:\Projects\FOE\foe2010-current\Client\obj\Debug\Client.pdb

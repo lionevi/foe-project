@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientRegistration\bin\Debug\TestSiimpleClient.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientRegistration\bin\Debug\TestSiimpleClient.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientRegistration\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientRegistration\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientRegistration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientRegistration\obj\Debug\TestSiimpleClient.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestSimpleClientRegistration\obj\Debug\TestSiimpleClient.pdb

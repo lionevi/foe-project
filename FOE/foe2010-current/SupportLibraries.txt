@@ -1,0 +1,4 @@
+- OpenPOP-SSL by Hugh Hall
+- 7zip, LZMA
+- Sqlite
+- ADO.NET 2.0 Provider for Sqlite by Robert Simpson

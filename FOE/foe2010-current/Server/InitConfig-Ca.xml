@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <DbServer>vm-xp\sqlserverdev</DbServer>
+  <DbUser>foe</DbUser>
+  <DbPass>foe</DbPass>
+  <DbName>FOE2</DbName>
+</Configuration>

@@ -1,0 +1,28 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\Server.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\Foe.Server.FoeSvrRetrieverSvc.FoeSvrRetrieverSvc.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\FSRetrieverSvc.ProjectInstaller.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\FoeSvrRetrieverSvc.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\obj\Debug\FoeSvrRetrieverSvc.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.exe
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\bin\Debug\Common.dll
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\bin\Debug\Server.dll
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\bin\Debug\Common.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\bin\Debug\Server.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\Foe.Server.FoeSvrRetrieverSvc.FoeSvrRetrieverSvc.resources
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\FSRetrieverSvc.ProjectInstaller.resources
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\GenerateResource.read.1.tlog
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\FoeSvrRetrieverSvc.exe
+C:\Projects\FOE\foe2010-current\FoeSvrRetrieverSvc\obj\Debug\FoeSvrRetrieverSvc.pdb

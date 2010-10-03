@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.exe
+   logfile = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.InstallLog
+Installing service Foe Server Retriever Service...
+Service Foe Server Retriever Service has been successfully installed.
+Creating EventLog source Foe Server Retriever Service in log Application...
+Committing assembly 'C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.exe
+   logfile = C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRetrieverSvc\bin\Debug\FoeSvrRetrieverSvc.InstallLog

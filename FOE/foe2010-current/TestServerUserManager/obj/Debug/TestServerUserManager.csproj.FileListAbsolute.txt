@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\bin\Debug\TestServerUserControl.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\bin\Debug\TestServerUserControl.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\bin\Debug\Server.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\obj\Debug\TestServerUserControl.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerUserManager\obj\Debug\TestServerUserControl.pdb

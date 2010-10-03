@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\bin\Debug\TestVOARssFeed.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\bin\Debug\TestVOARssFeed.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\obj\Debug\TestVOARssFeed.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\obj\Debug\TestVOARssFeed.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestVOARssFeed\bin\Debug\Server.pdb

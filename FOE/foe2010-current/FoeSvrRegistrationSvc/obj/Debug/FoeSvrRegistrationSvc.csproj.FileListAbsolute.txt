@@ -1,0 +1,36 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\Server.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.FoeSvrRegistrationSvc.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.ProjectInstaller.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.exe.manifest
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.application
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe.manifest
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.application
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe.manifest
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.application
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.exe
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\FoeSvrRegistrationSvc.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\Common.dll
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\Server.dll
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\Common.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\bin\Debug\Server.pdb
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.FoeSvrRegistrationSvc.resources
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.ProjectInstaller.resources
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\GenerateResource.read.1.tlog
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.exe.manifest
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.application
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.exe
+C:\Projects\FOE\foe2010-current\FoeSvrRegistrationSvc\obj\Debug\FoeSvrRegistrationSvc.pdb

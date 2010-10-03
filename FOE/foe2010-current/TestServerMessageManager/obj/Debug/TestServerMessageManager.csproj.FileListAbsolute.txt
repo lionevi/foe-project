@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\bin\Debug\TestServerMessageManager.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\bin\Debug\TestServerMessageManager.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\bin\Debug\Server.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\bin\Debug\Server.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\obj\Debug\TestServerMessageManager.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\TestServerMessageManager\obj\Debug\TestServerMessageManager.pdb

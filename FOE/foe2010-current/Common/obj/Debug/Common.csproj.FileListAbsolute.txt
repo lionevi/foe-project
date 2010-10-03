@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Common\bin\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Common\bin\Debug\Common.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Common\obj\Debug\Common.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\FOE\Common\obj\Debug\Common.pdb
+C:\Projects\FOE\foe2010-current\Common\bin\Debug\Common.dll
+C:\Projects\FOE\foe2010-current\Common\bin\Debug\Common.pdb
+C:\Projects\FOE\foe2010-current\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FOE\foe2010-current\Common\obj\Debug\Common.dll
+C:\Projects\FOE\foe2010-current\Common\obj\Debug\Common.pdb
